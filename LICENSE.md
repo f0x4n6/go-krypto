@@ -1,7 +1,7 @@
 MIT License
 
 Copyright (c) 2020-2024 Ryua Nerin
-Copyright (c) 2026-2026 Christian Uhsat
+Copyright (c) 2026 Fox Forensics
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

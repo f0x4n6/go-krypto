@@ -8,7 +8,7 @@ import (
 	"hash"
 	"math/bits"
 
-	"github.com/cuhsat/go-krypto/internal"
+	"github.com/f0x4n6/go-krypto/internal"
 )
 
 const (

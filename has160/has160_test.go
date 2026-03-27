@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/cuhsat/go-krypto/internal"
+	"github.com/f0x4n6/go-krypto/internal"
 
 	. "github.com/RyuaNerin/testingutil"
 )
