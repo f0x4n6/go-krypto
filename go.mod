@@ -1,4 +1,4 @@
-module github.com/f0x4n6/go-krypto
+module go.foxforensics.dev/go-krypto
 
 go 1.26
 

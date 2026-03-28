@@ -8,7 +8,7 @@ import (
 	"hash"
 	"math/bits"
 
-	"github.com/f0x4n6/go-krypto/internal"
+	"go.foxforensics.dev/go-krypto/internal"
 )
 
 const (
